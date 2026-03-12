@@ -1,9 +1,9 @@
-🧠 Academic Confusion Mapper
+Academic Confusion Mapper
 Detect Where a Student Is Confused — and Explain It Clearly
 
 An AI-powered hybrid educational assistant that identifies specific conceptual confusion in student input and generates structured, technically accurate explanations with visual learning support.
 
-🚀 Project Overview
+Project Overview
 
 Academic Confusion Mapper is a hybrid Natural Language Understanding (NLU) system designed to:
 
